@@ -1,2 +1,2 @@
 # ML-Soc-Hackathon-
-Repository for the March Hackathon with the ML Society
+Repository for the March Mini Hackathon with the ML Society
